@@ -37,7 +37,7 @@ Leadership could not unify supply chain forecasting or inventory planning becaus
 
 ## 🏗️ Architecture
 
-![alt text](FMCG_Architecture.png)
+![alt text](resources/FMCG_Architecture.png)
 
 ### Layer Descriptions
 
@@ -500,33 +500,9 @@ The dashboard supports dynamic filtering across:
 
 ---
 
-## Dashboard Components
+## Dashboard 
+![alt text](2_dashboard/dashboard.png)
 
-```text
-Executive Summary
-├── Total Revenue
-├── Total Quantity Sold
-├── Unique Customers
-└── Average Selling Price
-
-Revenue Analytics
-├── Top Products by Revenue
-├── Revenue Share by Channel
-├── Monthly Revenue Trend
-└── Top Variants by Revenue
-
-Customer Analytics
-├── Customer Revenue Leaderboard
-├── Customer Quantity Analysis
-└── High Value Customer Identification
-
-Product Analytics
-├── Price vs Quantity Scatter Plot
-├── Category Performance Analysis
-└── Product Variant Analysis
-```
-
----
 
 ## Business Questions Answered
 
